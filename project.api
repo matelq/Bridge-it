@@ -1,0 +1,28 @@
+#
+!main.cpp cctype cerrno clocale cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception graphics.h initializer_list ios iosfwd iostream istream keys_n_colors.h limits limits.h locale.h new ostream signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string.h string_view system_error type_traits typeinfo wchar.h wctype.h windows.h #<#>
+about() -> void #<main.cpp>
+buttons() -> void #<main.cpp>
+computer_xy : int[] #<main.cpp>
+copy_gametable : int[][] #<main.cpp>
+draw_turn(int colo) -> void #<main.cpp>
+draw_winner(int colo) -> void #<main.cpp>
+filling() -> void #<main.cpp>
+game() -> void #<main.cpp>
+game_engine(int x, int y, int player) -> int #<main.cpp>
+game_engine(int x, int y, int who) -> int #<main.cpp>
+gametable : intymouse=0;int[][] #<main.cpp>
+keyPressed(int key) -> int #<main.cpp>
+l : IMAGE* #<main.cpp>
+ll : IMAGE* #<main.cpp>
+lll : IMAGE* #<main.cpp>
+llll : IMAGE* #<main.cpp>
+lllll : IMAGE* #<main.cpp>
+llllll : IMAGE* #<main.cpp>
+lllllll : IMAGE* #<main.cpp>
+llllllll : IMAGE* #<main.cpp>
+logic_comp(int x, int y) -> void #<main.cpp>
+main() -> int #<main.cpp>
+menu() -> void #<main.cpp>
+rules() -> void #<main.cpp>
+winner_question(int x, int y, int who, int input_array[11][11]) -> int #<main.cpp>
+xmouse : int #<main.cpp>
